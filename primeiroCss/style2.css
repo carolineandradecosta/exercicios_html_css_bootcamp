@@ -1,0 +1,22 @@
+h1{
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    background-color: gray;
+}
+
+.texto{
+        text-align: center;
+        color: red;
+        font-size: 16px;
+        background-color: gray;
+}
+
+.textoitalico {
+    font-style: italic;
+}
+
+.destaque {
+    color: blue;
+    font-weight: bold;
+}
